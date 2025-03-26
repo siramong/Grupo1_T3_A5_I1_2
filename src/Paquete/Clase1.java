@@ -16,5 +16,6 @@ public class Clase1 {
         
         // Hacer visible la vista principal
         vista.setVisible(true);
+System.out.println("New Line");
     }
 }
