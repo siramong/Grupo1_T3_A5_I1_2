@@ -15,6 +15,6 @@ public class Clase1 {
         vista.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
         // Hacer visible la vista principal
-        vista.setVisible(true);
+        vista.setVisible(true); 
     }
 }
